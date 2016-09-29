@@ -61,3 +61,8 @@ It offers a variety of features as follows:
 
 ## License
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) Copyright (C) 2010-2013 Alibaba Group Holding Limited
+
+<a href="https://scan.coverity.com/projects/yanfeipeng-rocketmq">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/10323/badge.svg"/>
+</a>
